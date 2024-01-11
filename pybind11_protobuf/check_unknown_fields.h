@@ -4,7 +4,7 @@
 #include <optional>
 
 #include "google/protobuf/message.h"
-#include "python/google/protobuf/proto_api.h"
+#include "proto_api.h"
 #include "absl/strings/string_view.h"
 
 namespace pybind11_protobuf::check_unknown_fields {
